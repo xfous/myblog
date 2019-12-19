@@ -1,0 +1,8 @@
+config.toml
+content/
+archetypes/
+data/
+layouts/
+resources/
+static/
+themes/
