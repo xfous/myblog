@@ -1,3 +1,5 @@
+.gitignore
+.gitmodules
 config.toml
 content/
 archetypes/
