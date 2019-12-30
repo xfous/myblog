@@ -43,26 +43,6 @@
   </url>
   
   <url>
-    <loc>https://findm.cc/categories/tranquilpeak/</loc>
-    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://findm.cc/2018/08/video-case/</loc>
-    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://findm.cc/tags/videos-integration/</loc>
-    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://findm.cc/tags/vimeo/</loc>
-    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://findm.cc/categories/features/</loc>
     <lastmod>2018-02-18T00:00:00+00:00</lastmod>
   </url>
@@ -89,6 +69,11 @@
   
   <url>
     <loc>https://findm.cc/tags/markdown/</loc>
+    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://findm.cc/categories/tranquilpeak/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
   </url>
   
