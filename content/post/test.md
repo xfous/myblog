@@ -1,11 +1,10 @@
 ---
-title: "One Test"
+title: "Test"
 date: 2019-11-21T01:35:50+08:00
 categories:
 - category
-#- subcategory
+- subcategory
 tags:
-- tag1
 - tag2
 keywords:
 - tech
