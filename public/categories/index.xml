@@ -6,33 +6,24 @@
     <description>Recent content in Categories on 后园</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Nov 2019 01:35:50 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://findm.cc/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>category</title>
-      <link>https://findm.cc/categories/category/</link>
-      <pubDate>Thu, 21 Nov 2019 01:35:50 +0800</pubDate>
+      <title>Linux系统</title>
+      <link>https://findm.cc/categories/linux%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://findm.cc/categories/category/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>subcategory</title>
-      <link>https://findm.cc/categories/subcategory/</link>
-      <pubDate>Thu, 21 Nov 2019 01:35:50 +0800</pubDate>
-      
-      <guid>https://findm.cc/categories/subcategory/</guid>
+      <guid>https://findm.cc/categories/linux%E7%B3%BB%E7%BB%9F/</guid>
       <description></description>
     </item>
     
     <item>
       <title>features</title>
       <link>https://findm.cc/categories/features/</link>
-      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://findm.cc/categories/features/</guid>
       <description></description>
