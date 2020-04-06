@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>后园</title>
+    <link>https://findm.cc/</link>
+    <description>Recent content on 后园</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://findm.cc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>获取k8s镜像.md</title>
+      <link>https://findm.cc/2020/04/%E8%8E%B7%E5%8F%96k8s%E9%95%9C%E5%83%8F.md/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://findm.cc/2020/04/%E8%8E%B7%E5%8F%96k8s%E9%95%9C%E5%83%8F.md/</guid>
+      <description>&lt;p&gt;由于国内糟糕的网络环境，不能正常获取镜像。可以用下面的方法解决&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>在systemd服务中设置环境变量</title>
+      <link>https://findm.cc/2020/03/%E5%9C%A8systemd%E6%9C%8D%E5%8A%A1%E4%B8%AD%E8%AE%BE%E7%BD%AE%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://findm.cc/2020/03/%E5%9C%A8systemd%E6%9C%8D%E5%8A%A1%E4%B8%AD%E8%AE%BE%E7%BD%AE%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image gallery</title>
+      <link>https://findm.cc/2020/02/image-gallery/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://findm.cc/2020/02/image-gallery/</guid>
+      <description>&lt;p&gt;image ggg!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tags plugins showcase</title>
+      <link>https://findm.cc/2018/10/tags-plugins-showcase/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://findm.cc/2018/10/tags-plugins-showcase/</guid>
+      <description>&lt;p&gt;This post is used to show how tag plugins are displayed. See &lt;a href=&#34;https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/docs/user.md#tags&#34;&gt;docs&lt;/a&gt; for more info.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Elements showcase</title>
+      <link>https://findm.cc/2018/05/elements-showcase/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://findm.cc/2018/05/elements-showcase/</guid>
+      <description>&lt;p&gt;Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It&amp;rsquo;s simple and elegant.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>highlighted code showcase</title>
+      <link>https://findm.cc/2018/03/highlighted-code-showcase/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://findm.cc/2018/03/highlighted-code-showcase/</guid>
+      <description>&lt;p&gt;Tranquilpeak Hugo theme have its own theme to highlight source code. It&amp;rsquo;s based on GitHub theme: simple and elegant. Check out how it sublimate source codes.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

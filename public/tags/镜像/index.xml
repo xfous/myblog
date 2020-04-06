@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>镜像 on 后园</title>
+    <link>https://findm.cc/tags/%E9%95%9C%E5%83%8F/</link>
+    <description>Recent content in 镜像 on 后园</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://findm.cc/tags/%E9%95%9C%E5%83%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>获取k8s镜像.md</title>
+      <link>https://findm.cc/2020/04/%E8%8E%B7%E5%8F%96k8s%E9%95%9C%E5%83%8F.md/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://findm.cc/2020/04/%E8%8E%B7%E5%8F%96k8s%E9%95%9C%E5%83%8F.md/</guid>
+      <description>&lt;p&gt;由于国内糟糕的网络环境，不能正常获取镜像。可以用下面的方法解决&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
